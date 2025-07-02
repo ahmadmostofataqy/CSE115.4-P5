@@ -1,0 +1,3 @@
+gcc or clang (our c compiler)
+git (for version control)
+
