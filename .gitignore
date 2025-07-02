@@ -1,0 +1,14 @@
+# Windows
+*.exe
+*.o
+
+# Linux
+*.out
+*.so
+
+# macOS
+*.dSYM
+*.app
+
+.vscode/
+.DS_Store
