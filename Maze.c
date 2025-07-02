@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-#define MAX_SIZE 50 // Safety limit
+#define MAX_SIZE 50
 
 int maze[MAX_SIZE][MAX_SIZE];
 int visited[MAX_SIZE][MAX_SIZE];
