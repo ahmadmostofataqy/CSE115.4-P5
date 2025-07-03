@@ -43,3 +43,4 @@ void print_matrix(int matrix[n][n]) {
     }
     printf("\n");
 }
+ printf("\n");
