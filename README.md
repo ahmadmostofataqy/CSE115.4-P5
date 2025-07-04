@@ -33,7 +33,13 @@ To enjoy maze solver, follow steps below:
 ## Example Output
 
 ```bash
-
+1 1 1 1 1 1 0 
+0 0 1 1 1 1 1 
+0 0 1 1 0 1 1 
+1 1 1 1 0 1 1 
+1 1 1 1 1 1 1 
+0 0 0 1 1 1 0 
+1 1 1 1 1 1 1
 ```
 
 ## Author(s)
