@@ -41,7 +41,7 @@ To enjoy maze solver, follow steps below:
     BSCSE, Dept. of ECE, <br/>
     North South University (NSU)
 
-    2. Nasiha Rida Amin (252328), 
-    Dept. of ECE 
+2.  Nasiha Rida Amin(2523282642), <br/>
+    BSCSE, Dept. of ECE, <br/>
     North South University (NSU)
 
