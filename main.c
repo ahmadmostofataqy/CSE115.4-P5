@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <time.h>
 
-const int n = 7;
+#define n 7
 int maze[n][n];
 
 void generate_maze();
