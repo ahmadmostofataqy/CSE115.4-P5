@@ -51,3 +51,7 @@ To enjoy maze solver, follow steps below:
     BSCSE, Dept. of ECE, <br/>
     North South University (NSU)
 
+3.  Md Farhan Mirza (2521439642), <br/>
+    BSCSE, Dept. of ECE, <br/>
+    North South University (NSU)
+
